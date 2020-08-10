@@ -8,6 +8,8 @@ https://uniworldonline.com/search
 https://www.naics.com/company-lookup-tool/ (paid)
 https://www.bbb.org/
 
-Clerk of Courts Websites:
+Secretary of State Websites:
 Will need to be done state by state, but is extremely reliable
+(Data Found Back to 1979 on CA)
 https://cis.scc.virginia.gov/
+https://businesssearch.sos.ca.gov/

@@ -21,11 +21,6 @@ void (async () => {
           req.continue()
       }
     })
-
-    // Go to Login Page
-    await page.goto('https://accelerate.masschallenge.org/applicant/', {
-      waitUntil: 'networkidle2'
-    })
   
     // Email
     await page.waitForSelector("[id='id_email']")
