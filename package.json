@@ -1,0 +1,27 @@
+{
+  "name": "wikipediascraper",
+  "version": "1.0.0",
+  "description": "Wikipedia Scraper for Research",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavageGarrett/WikipediaScraper.git"
+  },
+  "keywords": [
+    "Scraper",
+    "Puppetteer",
+    "Wikipedia"
+  ],
+  "author": "Garrett Carder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavageGarrett/WikipediaScraper/issues"
+  },
+  "homepage": "https://github.com/SavageGarrett/WikipediaScraper#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
