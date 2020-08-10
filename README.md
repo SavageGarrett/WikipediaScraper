@@ -1,0 +1,2 @@
+# WikipediaScraper
+Scraper for Wikipedia
